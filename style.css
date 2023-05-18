@@ -1,16 +1,30 @@
 
+
+
+
 *{
     margin: 0;
     padding:0;
     box-sizing: border-box;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Trirong', serif;
 }
+
 
 #particles-js{
     background-color: darkblue;
-    height: 400px;
+    height: 50vh;
+    
     width: 100vw;
     
+}
+
+#typewriter {
+    position: absolute;
+    font-size: 60px;
+    font-family: 'B612', serif;
+    font-weight: 700;
+    width: 800px;
+    margin: 350px 250px;
 }
 
 body{
